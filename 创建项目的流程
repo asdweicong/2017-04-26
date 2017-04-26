@@ -1,0 +1,19 @@
+首先创建文件：mkdir 文件名 
+进入文件：cd 文件名
+克隆文件：git clone 地址
+然后打开克隆文件夹里面的工作区。
+然后：git pull origin master
+git status
+返回上一级：cd ../
+查看哪些文件修改了：git status
+git commit -m "file"
+上推文件：git push origin master
+下拉文件：git pull origin master
+修改后添加上去：git add *  (*代表添加全部)（git add * 要和下一句同时进行）
+提示谁上交的：git config --global user.email "1418066959@qq.com"
+git add *		
+git commit -m "fix"
+git status
+git log
+git push origin master
+git pull origin master
