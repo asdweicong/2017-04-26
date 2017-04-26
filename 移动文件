@@ -1,0 +1,7 @@
+首先打开自己的仓库位置
+然后输入：pwd
+拷贝自己的仓库地址： mv 文件 + 你的仓库地址
+然后： git push origin master
+然后： git add *
+然后： git commit -m "内容"
+然后： git push origin master
