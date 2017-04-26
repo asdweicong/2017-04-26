@@ -1,0 +1,16 @@
+#常用shell脚本
+
+cd ~/ #到本用户目录
+
+ls -a #列出所有文件，包括隐藏文件
+
+mkdir test  #创建test文件夹
+
+mv test test2 #将test文件夹移动到本目录，并重命名为test2
+
+rm -rf test2  #删除test2目录下的所有文件 -r 代表递归删除全部子文件夹
+
+
+
+
+

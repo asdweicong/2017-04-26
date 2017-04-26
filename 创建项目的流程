@@ -16,9 +16,4 @@ git commit -m "fix"
 git status
 git log
 git push origin master
-显示
-Username for 'https://github.com': 输入链接地址
-Password for 'https://1418066959@qq.com@github.com':输入密码 
 git pull origin master
-
-2017-04-26
