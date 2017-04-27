@@ -1,0 +1,4 @@
+创建文件夹：express -e "文件名"
+进入文件
+然后就输入：npm install
+然后输入：node bin/www
